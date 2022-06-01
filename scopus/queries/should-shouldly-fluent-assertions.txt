@@ -1,0 +1,22 @@
+(
+    TITLE-ABS (should)
+    OR TITLE-ABS (shouldly)
+    OR TITLE-ABS (fluent assertions)
+) AND (
+    SUBJAREA(COMP)
+) AND ( 
+    TITLE-ABS-KEY ({dotnet})
+    OR TITLE-ABS-KEY ({dot net})  
+    OR TITLE-ABS-KEY ({csharp})  
+    OR TITLE-ABS-KEY ({c#})  
+    OR TITLE-ABS-KEY ({.net})  
+) AND (
+    TITLE-ABS(test*)
+) AND (
+    PUBYEAR AFT 2011
+) AND NOT (
+    TITLE-ABS-KEY ("medicine*")
+    OR TITLE-ABS-KEY ("covid*")
+    OR TITLE-ABS-KEY ("cancer*")
+    OR TITLE-ABS-KEY ("bio*")
+)

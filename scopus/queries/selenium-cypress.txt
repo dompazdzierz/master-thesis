@@ -1,0 +1,20 @@
+(
+    TITLE-ABS ("selenium")
+    OR TITLE-ABS ("cypress")
+) AND (
+    TITLE-ABS("test*")
+) AND (
+    SUBJAREA(COMP)
+) AND (
+    PUBYEAR AFT 2011
+) AND NOT (
+    TITLE-ABS-KEY ("medicine*")
+    OR TITLE-ABS-KEY ("covid*")
+    OR TITLE-ABS-KEY ("cancer*")
+    OR TITLE-ABS-KEY ("bio*")
+    OR TITLE-ABS-KEY ("nutrient*")
+    OR TITLE-ABS-KEY ("molecul*")
+    OR TITLE-ABS-KEY ("disease*")
+    OR TITLE-ABS-KEY ("antioxidant*")
+    OR TITLE-ABS-KEY ("chemi*")
+)

@@ -1,0 +1,15 @@
+(
+    TITLE-ABS (mstest)
+    OR TITLE-ABS (xunit)
+    OR TITLE-ABS (nunit)
+    OR TITLE-ABS (mspec)
+) AND (
+    SUBJAREA(COMP)
+) AND (
+    PUBYEAR AFT 2011
+) AND NOT (
+    TITLE-ABS-KEY ("medicine*")
+    OR TITLE-ABS-KEY ("covid*")
+    OR TITLE-ABS-KEY ("cancer*")
+    OR TITLE-ABS-KEY ("bio*")
+)
