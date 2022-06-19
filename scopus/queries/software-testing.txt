@@ -1,0 +1,16 @@
+(   
+    TITLE-ABS ("software* test*") 
+    OR TITLE-ABS ("web* development* test*")
+    OR TITLE-ABS ("single* page* app* test*")
+    OR TITLE-ABS ("web* app* test*")
+) 
+AND
+(
+    SUBJAREA(COMP)
+)
+AND NOT (
+    TITLE-ABS-KEY ("medicine*")
+    OR TITLE-ABS-KEY ("covid*")
+    OR TITLE-ABS-KEY ("cancer*")
+    OR TITLE-ABS-KEY ("bio*")
+)

@@ -1,0 +1,920 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="56ec22c5-5e1f-4b61-b9bb-945b4f39c1ef" name="Dominik@DESKTOP-5URQ9PB 2022-06-13 20:50:50" runUser="DESKTOP-5URQ9PB\Dominik" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2022-06-13T20:50:50.7230987+02:00" queuing="2022-06-13T20:50:50.7230990+02:00" start="2022-06-13T20:50:48.6442716+02:00" finish="2022-06-13T20:50:50.8900137+02:00" />
+  <TestSettings name="default" id="b0d69eb1-1ade-4ab5-8299-743862cf064d">
+    <Deployment runDeploymentRoot="Dominik_DESKTOP-5URQ9PB_2022-06-13_20_50_50" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="c7141f69-90ff-48c8-987e-2d25c0625a20" testId="bada6f7c-e2e4-4711-b8c7-61bca40003b3" testName="FormatToStringTest100 (3521.3657738167635,3521.37 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000110" startTime="2022-06-13T20:50:50.6718865+02:00" endTime="2022-06-13T20:50:50.6719833+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c7141f69-90ff-48c8-987e-2d25c0625a20" />
+    <UnitTestResult executionId="efdf5bd8-79b3-49f0-a17b-d1034cd955f2" testId="bb4552ae-cead-437e-a9a9-a84229560af2" testName="FormatToStringTest100 (52858.048916166204,52858.05 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000067" startTime="2022-06-13T20:50:50.6822169+02:00" endTime="2022-06-13T20:50:50.6822991+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="efdf5bd8-79b3-49f0-a17b-d1034cd955f2" />
+    <UnitTestResult executionId="1bea89a7-7f8f-4288-b602-e215e8d5e956" testId="fe341b2e-fa9f-4b20-b65e-210f7bc7c178" testName="FormatToStringTest100 (86.89546322771136,86.90 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000062" startTime="2022-06-13T20:50:50.6592396+02:00" endTime="2022-06-13T20:50:50.6593071+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1bea89a7-7f8f-4288-b602-e215e8d5e956" />
+    <UnitTestResult executionId="d8b3d8a9-f2a2-4ff3-993d-2161c827e54d" testId="aab98562-9385-454d-9380-5468f19ba154" testName="FormatToStringTest100 (35145.379208063416,35145.38 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000065" startTime="2022-06-13T20:50:50.6788936+02:00" endTime="2022-06-13T20:50:50.6789700+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d8b3d8a9-f2a2-4ff3-993d-2161c827e54d" />
+    <UnitTestResult executionId="3cb87e65-5e94-48c1-83e5-a96293283847" testId="7bbfeab7-2a0b-43e1-84d7-23147dd64efb" testName="FormatToStringTest100 (2292.8331871111104,2292.83 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000095" startTime="2022-06-13T20:50:50.6787934+02:00" endTime="2022-06-13T20:50:50.6788755+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3cb87e65-5e94-48c1-83e5-a96293283847" />
+    <UnitTestResult executionId="1eb29219-c923-4773-a71c-1da1f115bf0e" testId="0d7c9e12-6168-417f-8be5-007a6f8e0aa9" testName="FormatToStringTest100 (31300.40752580967,31300.41 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000066" startTime="2022-06-13T20:50:50.6715792+02:00" endTime="2022-06-13T20:50:50.6716586+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1eb29219-c923-4773-a71c-1da1f115bf0e" />
+    <UnitTestResult executionId="85556aed-8ec7-486e-8490-1dbe3bac50e9" testId="7f4b1485-b47e-4464-88e9-89753b451b41" testName="FormatToStringTest100 (736.7398243680316,736.74 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000061" startTime="2022-06-13T20:50:50.6654406+02:00" endTime="2022-06-13T20:50:50.6655069+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="85556aed-8ec7-486e-8490-1dbe3bac50e9" />
+    <UnitTestResult executionId="30a0555c-968c-47ca-a603-bf5fa3f83fd4" testId="7f0879cf-42a3-47f9-a542-594ef926f250" testName="FormatToStringTest100 (79.6815319544084,79.68 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000160" startTime="2022-06-13T20:50:50.6499997+02:00" endTime="2022-06-13T20:50:50.6501407+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="30a0555c-968c-47ca-a603-bf5fa3f83fd4" />
+    <UnitTestResult executionId="a79a76c5-3104-42f8-9465-cac832bcfdec" testId="8b0103b7-dbac-40d4-9e52-891e0dd6cb8a" testName="FormatToStringTest100 (1208.1827589441941,1208.18 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000071" startTime="2022-06-13T20:50:50.6681385+02:00" endTime="2022-06-13T20:50:50.6682196+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a79a76c5-3104-42f8-9465-cac832bcfdec" />
+    <UnitTestResult executionId="35d222e1-4493-485d-bba7-79d49de03d0b" testId="54a6fee8-ec99-4bd2-878e-5a76125d760c" testName="FormatToStringTest100 (1108.7197928823157,1108.72 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000061" startTime="2022-06-13T20:50:50.6624525+02:00" endTime="2022-06-13T20:50:50.6625174+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="35d222e1-4493-485d-bba7-79d49de03d0b" />
+    <UnitTestResult executionId="7dd5b865-fbeb-4e11-8797-af2b77f8da9b" testId="1382bb3d-8511-4a5c-8c3b-3a7c84603165" testName="FormatToStringTest100 (40857.08543233996,40857.09 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000084" startTime="2022-06-13T20:50:50.6713523+02:00" endTime="2022-06-13T20:50:50.6714573+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7dd5b865-fbeb-4e11-8797-af2b77f8da9b" />
+    <UnitTestResult executionId="36020fd4-8176-4c75-9241-5d02c8c42f42" testId="5e6b5665-5e1e-4d4e-9118-697af9d3cc98" testName="FormatToStringTest100 (15566.957545477411,15566.96 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000065" startTime="2022-06-13T20:50:50.6757811+02:00" endTime="2022-06-13T20:50:50.6758644+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="36020fd4-8176-4c75-9241-5d02c8c42f42" />
+    <UnitTestResult executionId="f2488f0f-127c-4a9c-9f86-f41cf4a4ea0b" testId="e3f6c46b-1a38-4d06-9384-dd133679013d" testName="FormatToStringTest100 (5628.028273674672,5628.03 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000067" startTime="2022-06-13T20:50:50.6100507+02:00" endTime="2022-06-13T20:50:50.6101267+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f2488f0f-127c-4a9c-9f86-f41cf4a4ea0b" />
+    <UnitTestResult executionId="c13d7565-3dc9-4f16-a273-c8e03d5e2f75" testId="56a0b568-3d05-4bd6-b698-ae6a3ff92507" testName="FormatToStringTest100 (38640.62766693003,38640.63 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000065" startTime="2022-06-13T20:50:50.6560016+02:00" endTime="2022-06-13T20:50:50.6560706+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c13d7565-3dc9-4f16-a273-c8e03d5e2f75" />
+    <UnitTestResult executionId="90679fae-0905-4515-8774-3e57823a242d" testId="1b009a10-f7de-4971-bebd-db65c32c8314" testName="FormatToStringTest100 (591.2110872302256,591.21 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000062" startTime="2022-06-13T20:50:50.6625353+02:00" endTime="2022-06-13T20:50:50.6626063+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="90679fae-0905-4515-8774-3e57823a242d" />
+    <UnitTestResult executionId="20ad3f4e-f0a9-4b5d-9343-bd5963fba1f0" testId="e133f658-aea1-4f4d-a7c2-6aa16d2aaf63" testName="FormatToStringTest100 (7124.979180760672,7124.98 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000062" startTime="2022-06-13T20:50:50.6565143+02:00" endTime="2022-06-13T20:50:50.6565803+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="20ad3f4e-f0a9-4b5d-9343-bd5963fba1f0" />
+    <UnitTestResult executionId="c80ffeb6-a555-4759-8857-b446f80d5b93" testId="fc2ee564-e218-4ab7-9499-7e907f9b9520" testName="FormatToStringTest100 (1300.9430775404642,1300.94 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0422064" startTime="2022-06-13T20:50:50.5441318+02:00" endTime="2022-06-13T20:50:50.6028303+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c80ffeb6-a555-4759-8857-b446f80d5b93" />
+    <UnitTestResult executionId="e574a2ea-17a6-4a09-b683-1043435181d1" testId="3a22c60d-effb-4f5a-aaf1-473f05255ae3" testName="FormatToStringTest100 (9816.961298880615,9816.96 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000062" startTime="2022-06-13T20:50:50.6503646+02:00" endTime="2022-06-13T20:50:50.6504324+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e574a2ea-17a6-4a09-b683-1043435181d1" />
+    <UnitTestResult executionId="e20c24c1-c2c6-4146-a198-bdec34cc9b70" testId="85782a81-aafc-4d90-9fcc-48ea2bef158c" testName="FormatToStringTest100 (74514.06270644537,74514.06 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000126" startTime="2022-06-13T20:50:50.6820115+02:00" endTime="2022-06-13T20:50:50.6821859+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e20c24c1-c2c6-4146-a198-bdec34cc9b70" />
+    <UnitTestResult executionId="e5891d3c-c292-4c16-85c7-d1ad358eea8f" testId="66b9031a-a86e-4f5e-9cc8-06d1d7b57be1" testName="FormatToStringTest100 (159.83786031922224,159.84 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000062" startTime="2022-06-13T20:50:50.6596606+02:00" endTime="2022-06-13T20:50:50.6597268+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e5891d3c-c292-4c16-85c7-d1ad358eea8f" />
+    <UnitTestResult executionId="3205f86b-dcc5-4e7a-a3a6-aee16dfa543f" testId="99f67cb8-ff69-4dfd-8331-35ce20a331eb" testName="FormatToStringTest100 (63507.32603545455,63507.33 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000065" startTime="2022-06-13T20:50:50.6758823+02:00" endTime="2022-06-13T20:50:50.6759558+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3205f86b-dcc5-4e7a-a3a6-aee16dfa543f" />
+    <UnitTestResult executionId="8b9ae3b0-05e6-4b65-88fe-2e5d4aed5540" testId="c6a353be-1a6d-4c91-9d77-1b9bb63ed330" testName="FormatToStringTest100 (27893.312729890138,27893.31 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000069" startTime="2022-06-13T20:50:50.6656081+02:00" endTime="2022-06-13T20:50:50.6656751+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8b9ae3b0-05e6-4b65-88fe-2e5d4aed5540" />
+    <UnitTestResult executionId="bc3f65ab-2e25-4ea2-9435-86003136fd54" testId="cf4151d7-9ac4-4e6b-bc2b-3b6068ccd9e6" testName="FormatToStringTest100 (50991.22189691114,50991.22 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000064" startTime="2022-06-13T20:50:50.6754989+02:00" endTime="2022-06-13T20:50:50.6755717+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bc3f65ab-2e25-4ea2-9435-86003136fd54" />
+    <UnitTestResult executionId="5ec2e00f-ea8e-473f-bbca-a2d042b1de55" testId="e9ea4e0e-bb69-4abd-86a2-f718719cdf76" testName="FormatToStringTest100 (22291.653251342315,22291.65 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000115" startTime="2022-06-13T20:50:50.6557202+02:00" endTime="2022-06-13T20:50:50.6558780+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5ec2e00f-ea8e-473f-bbca-a2d042b1de55" />
+    <UnitTestResult executionId="ca9f5a0a-81dc-482a-838d-dec9d8bd1506" testId="c33c72be-1330-4337-afba-d1180ef4ff58" testName="FormatToStringTest100 (62975.496334776515,62975.50 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000063" startTime="2022-06-13T20:50:50.6791768+02:00" endTime="2022-06-13T20:50:50.6792497+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ca9f5a0a-81dc-482a-838d-dec9d8bd1506" />
+    <UnitTestResult executionId="55b00a4c-ae61-4065-986a-bc53b2802c14" testId="fc564bae-1f54-45bf-a65a-59d49e85d1f7" testName="FormatToStringTest100 (317.9090540706688,317.91 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000112" startTime="2022-06-13T20:50:50.6785189+02:00" endTime="2022-06-13T20:50:50.6786660+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="55b00a4c-ae61-4065-986a-bc53b2802c14" />
+    <UnitTestResult executionId="8c8a9a30-f618-4c90-94b7-2dfec36d2421" testId="8fb35c9b-ff16-41a9-a580-89e07e9f78c8" testName="FormatToStringTest100 (1649.0127968480872,1649.01 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000081" startTime="2022-06-13T20:50:50.6717723+02:00" endTime="2022-06-13T20:50:50.6718590+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8c8a9a30-f618-4c90-94b7-2dfec36d2421" />
+    <UnitTestResult executionId="14c7b8b2-42f0-469b-88f0-a39a9f0a723a" testId="cdca18b4-9f64-4148-9bf3-39970c2dd9dd" testName="FormatToStringTest100 (34096.337879508894,34096.34 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000062" startTime="2022-06-13T20:50:50.6656924+02:00" endTime="2022-06-13T20:50:50.6657584+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="14c7b8b2-42f0-469b-88f0-a39a9f0a723a" />
+    <UnitTestResult executionId="df524ecf-95c7-476b-b138-8c78652ee3cf" testId="f98d8477-1df1-48d6-b3a4-f8e624897f9e" testName="FormatToStringTest100 (726.8087564975995,726.81 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000096" startTime="2022-06-13T20:50:50.6098793+02:00" endTime="2022-06-13T20:50:50.6100242+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="df524ecf-95c7-476b-b138-8c78652ee3cf" />
+    <UnitTestResult executionId="793b834d-6451-40b8-8972-628e7c1c3b1b" testId="675cbb8f-8dac-44f5-8d2d-59433bf933dd" testName="FormatToStringTest100 (32216.686763396807,32216.69 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000080" startTime="2022-06-13T20:50:50.6097673+02:00" endTime="2022-06-13T20:50:50.6098543+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="793b834d-6451-40b8-8972-628e7c1c3b1b" />
+    <UnitTestResult executionId="bf65a61b-4e0a-436f-9aca-6fc6f0aa5e93" testId="cf0eafe8-8180-4478-a3c9-9760e011c313" testName="FormatToStringTest100 (32218.080508120394,32218.08 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000064" startTime="2022-06-13T20:50:50.6826935+02:00" endTime="2022-06-13T20:50:50.6827659+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bf65a61b-4e0a-436f-9aca-6fc6f0aa5e93" />
+    <UnitTestResult executionId="8ab1b472-e85f-4326-add4-08ab899aef7b" testId="6da895ad-a927-419f-b400-488281d1adb8" testName="FormatToStringTest100 (10914.360814625099,10914.36 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000091" startTime="2022-06-13T20:50:50.6101458+02:00" endTime="2022-06-13T20:50:50.6102346+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8ab1b472-e85f-4326-add4-08ab899aef7b" />
+    <UnitTestResult executionId="fd1ddc66-1075-4bc1-bab9-d806e2730426" testId="649d9cc3-15e7-427f-b67b-6e83be43ae69" testName="FormatToStringTest100 (41876.979471482795,41876.98 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000062" startTime="2022-06-13T20:50:50.6823179+02:00" endTime="2022-06-13T20:50:50.6823920+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fd1ddc66-1075-4bc1-bab9-d806e2730426" />
+    <UnitTestResult executionId="d860a604-7968-42be-859f-001121eed79d" testId="83371d79-efa0-42ca-b106-e803fd84f183" testName="FormatToStringTest100 (918.1842976688334,918.18 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000060" startTime="2022-06-13T20:50:50.6686580+02:00" endTime="2022-06-13T20:50:50.6687230+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d860a604-7968-42be-859f-001121eed79d" />
+    <UnitTestResult executionId="064acb65-de28-4b8a-8096-5cf5c2963f0c" testId="e5bafd75-fcbe-4f12-b586-b1cab8bd11e8" testName="FormatToStringTest100 (22666.13578912995,22666.14 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000071" startTime="2022-06-13T20:50:50.6564289+02:00" endTime="2022-06-13T20:50:50.6564963+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="064acb65-de28-4b8a-8096-5cf5c2963f0c" />
+    <UnitTestResult executionId="ddf7f54f-af18-4e7e-9379-4bc89367ec4b" testId="b5083f5a-98a5-4fba-923c-a26148f63b57" testName="FormatToStringTest100 (39178.05988345298,39178.06 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000065" startTime="2022-06-13T20:50:50.6753071+02:00" endTime="2022-06-13T20:50:50.6753852+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ddf7f54f-af18-4e7e-9379-4bc89367ec4b" />
+    <UnitTestResult executionId="e17afd40-1d6c-4298-87bf-20bb56bfa2b6" testId="fab9e9a6-0f8a-429f-b1c8-e618abb3b13e" testName="FormatToStringTest100 (20244.692955315437,20244.69 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000063" startTime="2022-06-13T20:50:50.6688288+02:00" endTime="2022-06-13T20:50:50.6688953+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e17afd40-1d6c-4298-87bf-20bb56bfa2b6" />
+    <UnitTestResult executionId="969303c1-f891-444c-8ffd-90f9c18e0a29" testId="24ad7700-6f45-4901-b25e-eb0763a632bb" testName="FormatToStringTest100 (16383.352881839199,16383.35 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000067" startTime="2022-06-13T20:50:50.6714789+02:00" endTime="2022-06-13T20:50:50.6715607+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="969303c1-f891-444c-8ffd-90f9c18e0a29" />
+    <UnitTestResult executionId="39eca2ed-1733-4dc6-ab69-bcb9bc7da628" testId="8086175e-a865-4111-b96a-d32838d1f9d9" testName="FormatToStringTest100 (2937.138486199611,2937.14 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000078" startTime="2022-06-13T20:50:50.6722274+02:00" endTime="2022-06-13T20:50:50.6723403+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="39eca2ed-1733-4dc6-ab69-bcb9bc7da628" />
+    <UnitTestResult executionId="0e94cd7d-1c06-4665-87a8-3d7c418e36f9" testId="eddeeeb1-4b76-48bc-8746-217ec1cc17c0" testName="FormatToStringTest100 (17252.06220983903,17252.06 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000066" startTime="2022-06-13T20:50:50.6721274+02:00" endTime="2022-06-13T20:50:50.6722087+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0e94cd7d-1c06-4665-87a8-3d7c418e36f9" />
+    <UnitTestResult executionId="3f1c376f-77dc-45cf-a4b3-b677b6fb5495" testId="077e9bb8-eb41-4ad8-82d0-b8ca989505f5" testName="FormatToStringTest100 (286.92120604539343,286.92 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000065" startTime="2022-06-13T20:50:50.6502759+02:00" endTime="2022-06-13T20:50:50.6503462+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3f1c376f-77dc-45cf-a4b3-b677b6fb5495" />
+    <UnitTestResult executionId="c4a953b0-1271-4a3a-b80d-a6da3afb84de" testId="587a785e-c067-496c-9729-2e4205441e74" testName="FormatToStringTest100 (79973.08417819678,79973.08 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000067" startTime="2022-06-13T20:50:50.6102564+02:00" endTime="2022-06-13T20:50:50.6103285+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c4a953b0-1271-4a3a-b80d-a6da3afb84de" />
+    <UnitTestResult executionId="486e5c7c-b1a9-46d9-8c2e-6302deb911a8" testId="5e0add7f-10ae-41e2-9463-02f6f06a8d91" testName="FormatToStringTest100 (468.83385119346616,468.83 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000069" startTime="2022-06-13T20:50:50.6620193+02:00" endTime="2022-06-13T20:50:50.6620992+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="486e5c7c-b1a9-46d9-8c2e-6302deb911a8" />
+    <UnitTestResult executionId="d16f73eb-062a-4588-b01e-4148c1a11c4e" testId="9c730735-772a-4758-8c86-f2002bc547c1" testName="FormatToStringTest100 (52020.805412759444,52020.81 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000070" startTime="2022-06-13T20:50:50.6720208+02:00" endTime="2022-06-13T20:50:50.6721081+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d16f73eb-062a-4588-b01e-4148c1a11c4e" />
+    <UnitTestResult executionId="4b92a56b-66c9-4a99-904f-a9c4db62f728" testId="3708d394-177d-4e3e-b38a-2e45022b2ff6" testName="FormatToStringTest100 (11912.404131636213,11912.40 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000064" startTime="2022-06-13T20:50:50.6825042+02:00" endTime="2022-06-13T20:50:50.6825772+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4b92a56b-66c9-4a99-904f-a9c4db62f728" />
+    <UnitTestResult executionId="2c2deca6-88af-48a4-b21d-fd989b8b769b" testId="fbb69a1e-ab28-412c-a624-d283618d81e3" testName="FormatToStringTest100 (6864.093052674129,6864.09 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000094" startTime="2022-06-13T20:50:50.6828772+02:00" endTime="2022-06-13T20:50:50.6829553+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2c2deca6-88af-48a4-b21d-fd989b8b769b" />
+    <UnitTestResult executionId="4710c3dd-b000-4945-90be-3ec5fcfe83f6" testId="d8c72584-deaa-40e5-af56-778274886186" testName="FormatToStringTest100 (28502.61128259758,28502.61 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000063" startTime="2022-06-13T20:50:50.6682387+02:00" endTime="2022-06-13T20:50:50.6683062+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4710c3dd-b000-4945-90be-3ec5fcfe83f6" />
+    <UnitTestResult executionId="a23da324-00db-4d2b-99d5-90d32168b4f2" testId="63323c08-2f86-4166-95f1-1529d0bfd20c" testName="FormatToStringTest100 (45035.160883881224,45035.16 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000063" startTime="2022-06-13T20:50:50.6652722+02:00" endTime="2022-06-13T20:50:50.6653388+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a23da324-00db-4d2b-99d5-90d32168b4f2" />
+    <UnitTestResult executionId="4afa99a7-0fbc-4ee3-aeca-e4237a38ee08" testId="fc755783-58bc-4146-99b6-28cd68ad8dee" testName="FormatToStringTest100 (6958.393354767186,6958.39 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000069" startTime="2022-06-13T20:50:50.6104324+02:00" endTime="2022-06-13T20:50:50.6104994+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4afa99a7-0fbc-4ee3-aeca-e4237a38ee08" />
+    <UnitTestResult executionId="c405ef14-7e2b-4e0c-aaf4-6eefd6f38bce" testId="4bc32075-7c02-4afe-99b9-99b9525fdfc1" testName="FormatToStringTest100 (12949.590713378317,12949.59 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000061" startTime="2022-06-13T20:50:50.6504505+02:00" endTime="2022-06-13T20:50:50.6505170+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c405ef14-7e2b-4e0c-aaf4-6eefd6f38bce" />
+    <UnitTestResult executionId="c65c8698-bbce-4469-9fa9-31acd8625e30" testId="bddc51a6-43e6-456d-b72d-138868043226" testName="FormatToStringTest100 (67338.80028760935,67338.80 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000064" startTime="2022-06-13T20:50:50.6591525+02:00" endTime="2022-06-13T20:50:50.6592213+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c65c8698-bbce-4469-9fa9-31acd8625e30" />
+    <UnitTestResult executionId="25002c41-7abd-4fb0-9954-32835fc44f00" testId="16c0342d-052f-4783-87e1-70e8ca326314" testName="FormatToStringTest100 (11100.829211263372,11100.83 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000062" startTime="2022-06-13T20:50:50.6562602+02:00" endTime="2022-06-13T20:50:50.6563270+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="25002c41-7abd-4fb0-9954-32835fc44f00" />
+    <UnitTestResult executionId="20a7f7ab-483c-4e97-95e0-a4cd4d031bb4" testId="18498485-0c97-4fbd-890e-17fbcb18589a" testName="FormatToStringTest100 (22604.838218828587,22604.84 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000062" startTime="2022-06-13T20:50:50.6595764+02:00" endTime="2022-06-13T20:50:50.6596423+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="20a7f7ab-483c-4e97-95e0-a4cd4d031bb4" />
+    <UnitTestResult executionId="a52c0eb5-91bb-4103-bed0-a27ba6951240" testId="b0a584a6-72f6-4dd6-8b19-8896d0f5b232" testName="FormatToStringTest100 (37589.670531794276,37589.67 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000061" startTime="2022-06-13T20:50:50.6563446+02:00" endTime="2022-06-13T20:50:50.6564111+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a52c0eb5-91bb-4103-bed0-a27ba6951240" />
+    <UnitTestResult executionId="eb8f3470-1350-40d4-a36f-d772a7b03ce9" testId="da0f47cf-fb93-41ab-b01a-2c839d88c952" testName="FormatToStringTest100 (14237.13226245955,14237.13 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000066" startTime="2022-06-13T20:50:50.6559090+02:00" endTime="2022-06-13T20:50:50.6559812+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="eb8f3470-1350-40d4-a36f-d772a7b03ce9" />
+    <UnitTestResult executionId="d412adb2-f663-41b1-a13d-c7078912358f" testId="7970f90a-b137-4175-b5ce-af4e5a4522f8" testName="FormatToStringTest100 (7458.609645228652,7458.61 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000062" startTime="2022-06-13T20:50:50.6655247+02:00" endTime="2022-06-13T20:50:50.6655906+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d412adb2-f663-41b1-a13d-c7078912358f" />
+    <UnitTestResult executionId="4ec844a8-8a76-4704-81e7-86642c52ad07" testId="29269a0a-be56-4a14-90f9-e136de67fcc4" testName="FormatToStringTest100 (46898.00219497783,46898.00 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000065" startTime="2022-06-13T20:50:50.6786949+02:00" endTime="2022-06-13T20:50:50.6787749+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4ec844a8-8a76-4704-81e7-86642c52ad07" />
+    <UnitTestResult executionId="783ee5ef-65d9-490d-80a6-a78fa687d50b" testId="2f03c096-7517-4945-90f6-38e38750f8ea" testName="FormatToStringTest100 (52810.91713865516,52810.92 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000064" startTime="2022-06-13T20:50:50.6103463+02:00" endTime="2022-06-13T20:50:50.6104145+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="783ee5ef-65d9-490d-80a6-a78fa687d50b" />
+    <UnitTestResult executionId="41e5bc0e-aef0-4f03-b698-1168dad7b855" testId="fa9ee141-0586-4c82-be5b-13fcb4a7016c" testName="FormatToStringTest100 (28192.949128067565,28192.95 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000063" startTime="2022-06-13T20:50:50.6621184+02:00" endTime="2022-06-13T20:50:50.6621856+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="41e5bc0e-aef0-4f03-b698-1168dad7b855" />
+    <UnitTestResult executionId="46dafc4c-ad9a-4414-b862-0213ad331a91" testId="79a879eb-a6dd-4aa8-851c-7d1ceaa07068" testName="FormatToStringTest100 (1614.2516601789982,1614.25 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000061" startTime="2022-06-13T20:50:50.6626236+02:00" endTime="2022-06-13T20:50:50.6626893+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="46dafc4c-ad9a-4414-b862-0213ad331a91" />
+    <UnitTestResult executionId="90cae604-db5c-4cbd-a0fb-d05a7693a0f6" testId="b2fe7148-ab6b-4a88-9b5b-2e03267fba64" testName="FormatToStringTest100 (21961.272673999552,21961.27 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000064" startTime="2022-06-13T20:50:50.6754031+02:00" endTime="2022-06-13T20:50:50.6754773+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="90cae604-db5c-4cbd-a0fb-d05a7693a0f6" />
+    <UnitTestResult executionId="911ddbaa-a1c8-4549-8218-7da93762c98d" testId="b2280ffa-7e49-406f-a17b-7ab3f397522a" testName="FormatToStringTest100 (27050.586848031067,27050.59 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000063" startTime="2022-06-13T20:50:50.6505355+02:00" endTime="2022-06-13T20:50:50.6506022+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="911ddbaa-a1c8-4549-8218-7da93762c98d" />
+    <UnitTestResult executionId="9848eb1a-c8d1-4ca2-aedd-535178bc4e0c" testId="0463e7b2-2a23-4f14-9fe0-608e8069c61e" testName="FormatToStringTest100 (10784.438152511344,10784.44 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000092" startTime="2022-06-13T20:50:50.6865118+02:00" endTime="2022-06-13T20:50:50.6866449+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9848eb1a-c8d1-4ca2-aedd-535178bc4e0c" />
+    <UnitTestResult executionId="3a6d67e1-d4fb-41e5-a6f8-871de732a97e" testId="ea30626e-a503-435a-a732-4d57252ba27f" testName="FormatToStringTest100 (7594.279030504766,7594.28 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000062" startTime="2022-06-13T20:50:50.6623699+02:00" endTime="2022-06-13T20:50:50.6624352+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3a6d67e1-d4fb-41e5-a6f8-871de732a97e" />
+    <UnitTestResult executionId="0f2888e1-e682-47b7-90f3-d1b8d2930781" testId="4d6d3490-8aa8-4143-acb8-0cfb1e180dbf" testName="FormatToStringTest100 (17953.338243749615,17953.34 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000064" startTime="2022-06-13T20:50:50.6755895+02:00" endTime="2022-06-13T20:50:50.6756656+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0f2888e1-e682-47b7-90f3-d1b8d2930781" />
+    <UnitTestResult executionId="ebf0fb74-0043-494c-8745-c504b883e2d4" testId="3b96fa6a-5bcf-490a-89b5-23364310405e" testName="FormatToStringTest100 (28072.424637532058,28072.42 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000067" startTime="2022-06-13T20:50:50.6594093+02:00" endTime="2022-06-13T20:50:50.6594758+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ebf0fb74-0043-494c-8745-c504b883e2d4" />
+    <UnitTestResult executionId="c72e31da-5940-48b5-8717-2b9c08e297ee" testId="26b4fd2c-672f-4d6e-a93d-1a0e138a09d3" testName="FormatToStringTest100 (64210.358316209335,64210.36 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000065" startTime="2022-06-13T20:50:50.6825950+02:00" endTime="2022-06-13T20:50:50.6826704+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c72e31da-5940-48b5-8717-2b9c08e297ee" />
+    <UnitTestResult executionId="eb503559-3f7f-408d-b282-eb9d5b775954" testId="50ad44a7-7723-4b59-a06c-0841003706ed" testName="FormatToStringTest100 (10268.547802396373,10268.55 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000063" startTime="2022-06-13T20:50:50.6756837+02:00" endTime="2022-06-13T20:50:50.6757573+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="eb503559-3f7f-408d-b282-eb9d5b775954" />
+    <UnitTestResult executionId="ed85428b-b338-44a9-8fc4-d1eedd411082" testId="b6045ca9-8975-4d2f-b57d-117dbf75987c" testName="FormatToStringTest100 (35784.54232617307,35784.54 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000062" startTime="2022-06-13T20:50:50.6593248+02:00" endTime="2022-06-13T20:50:50.6593914+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ed85428b-b338-44a9-8fc4-d1eedd411082" />
+    <UnitTestResult executionId="bb628dd7-2561-4564-b233-16d032a1b574" testId="2929118e-8f24-4bef-9a03-69fbf79e6b77" testName="FormatToStringTest100 (80609.94377465078,80609.94 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000063" startTime="2022-06-13T20:50:50.6561741+02:00" endTime="2022-06-13T20:50:50.6562414+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bb628dd7-2561-4564-b233-16d032a1b574" />
+    <UnitTestResult executionId="04f4a3d1-4163-4be2-9555-5e3d93e840e5" testId="d9a4dfa2-8e39-4800-bd41-f7b5a1262190" testName="FormatToStringTest100 (69864.17463991146,69864.17 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000064" startTime="2022-06-13T20:50:50.6792672+02:00" endTime="2022-06-13T20:50:50.6793453+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="04f4a3d1-4163-4be2-9555-5e3d93e840e5" />
+    <UnitTestResult executionId="71622209-b11d-44a3-a620-85e9e77751ea" testId="5b80d218-f1f3-46b1-aac0-01fd7359e802" testName="FormatToStringTest100 (8768.816937361293,8768.82 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000062" startTime="2022-06-13T20:50:50.6627068+02:00" endTime="2022-06-13T20:50:50.6627729+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="71622209-b11d-44a3-a620-85e9e77751ea" />
+    <UnitTestResult executionId="221f5b15-be69-4911-84c6-b72624107545" testId="e864747c-da7d-4ccb-9187-42cfbb917d91" testName="FormatToStringTest100 (31290.71396233687,31290.71 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000066" startTime="2022-06-13T20:50:50.6716768+02:00" endTime="2022-06-13T20:50:50.6717546+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="221f5b15-be69-4911-84c6-b72624107545" />
+    <UnitTestResult executionId="a8afc1cc-224c-42a6-9b28-05bdec16a530" testId="ae8b13d7-21ca-4193-8a6a-f5c43a74bbd9" testName="FormatToStringTest100 (8499.121443388574,8499.12 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000064" startTime="2022-06-13T20:50:50.6657760+02:00" endTime="2022-06-13T20:50:50.6658466+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a8afc1cc-224c-42a6-9b28-05bdec16a530" />
+    <UnitTestResult executionId="7f515d27-9165-413d-90db-08e971b27487" testId="9d91f0e2-7861-44b0-9cae-ef9dec9e378f" testName="FormatToStringTest100 (32632.105531036905,32632.11 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000068" startTime="2022-06-13T20:50:50.6501743+02:00" endTime="2022-06-13T20:50:50.6502516+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7f515d27-9165-413d-90db-08e971b27487" />
+    <UnitTestResult executionId="e59d5604-0db0-4c69-b358-d769e4d73ddc" testId="fffdc944-2bec-4e2d-8c00-0c0bcfd35ea9" testName="FormatToStringTest100 (33206.73122987837,33206.73 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000063" startTime="2022-06-13T20:50:50.6685750+02:00" endTime="2022-06-13T20:50:50.6686406+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e59d5604-0db0-4c69-b358-d769e4d73ddc" />
+    <UnitTestResult executionId="60973595-b70d-438a-9cc6-8dff63d71b2f" testId="7464994c-2fc9-4ffe-9f15-bb1637cfc851" testName="FormatToStringTest100 (70771.4436677524,70771.44 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000065" startTime="2022-06-13T20:50:50.6827832+02:00" endTime="2022-06-13T20:50:50.6828596+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="60973595-b70d-438a-9cc6-8dff63d71b2f" />
+    <UnitTestResult executionId="1d116f30-80dd-47bd-9696-a64b34645891" testId="83628677-b469-4897-a4ab-a6551451f22a" testName="FormatToStringTest100 (25990.318498101697,25990.32 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000063" startTime="2022-06-13T20:50:50.6684077+02:00" endTime="2022-06-13T20:50:50.6684740+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1d116f30-80dd-47bd-9696-a64b34645891" />
+    <UnitTestResult executionId="b8ea0983-9128-43e2-9285-979e0862bd6e" testId="f8b12a8d-e706-4868-a67e-67bb107b2564" testName="FormatToStringTest100 (26515.80237687929,26515.80 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000062" startTime="2022-06-13T20:50:50.6507032+02:00" endTime="2022-06-13T20:50:50.6507696+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b8ea0983-9128-43e2-9285-979e0862bd6e" />
+    <UnitTestResult executionId="cb5c6c60-0fa4-4ec3-ab9a-b9255833e3d2" testId="d678b4e9-dbef-4b48-bd30-0ed2abcc6689" testName="FormatToStringTest100 (6890.028458985514,6890.03 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000061" startTime="2022-06-13T20:50:50.6622872+02:00" endTime="2022-06-13T20:50:50.6623524+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cb5c6c60-0fa4-4ec3-ab9a-b9255833e3d2" />
+    <UnitTestResult executionId="7f4d4eac-3fed-4fd0-8718-e0cf9ec1c415" testId="f33c8f26-c699-4ff4-9de0-793e87d3d77c" testName="FormatToStringTest100 (15639.704937780603,15639.70 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000065" startTime="2022-06-13T20:50:50.6651870+02:00" endTime="2022-06-13T20:50:50.6652541+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7f4d4eac-3fed-4fd0-8718-e0cf9ec1c415" />
+    <UnitTestResult executionId="f5f8e54c-046e-40f9-9cb1-4ac4d5a50438" testId="9e418f51-94ae-4ee3-a4c5-5bd25121ef04" testName="FormatToStringTest100 (45603.90324273142,45603.90 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000061" startTime="2022-06-13T20:50:50.6506198+02:00" endTime="2022-06-13T20:50:50.6506857+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f5f8e54c-046e-40f9-9cb1-4ac4d5a50438" />
+    <UnitTestResult executionId="279f952a-f892-4a1c-8c40-88c913b3ead4" testId="f36436dd-d2ae-4819-acc6-c3911b8c7e06" testName="FormatToStringTest100 (19541.10539777116,19541.11 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000062" startTime="2022-06-13T20:50:50.6622030+02:00" endTime="2022-06-13T20:50:50.6622692+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="279f952a-f892-4a1c-8c40-88c913b3ead4" />
+    <UnitTestResult executionId="cd559bf6-e1db-4774-848d-b466de55fe53" testId="6bde1f9c-1072-4653-89d4-8904f3f7db07" testName="FormatToStringTest100 (5396.620088554277,5396.62 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000063" startTime="2022-06-13T20:50:50.6507870+02:00" endTime="2022-06-13T20:50:50.6508587+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cd559bf6-e1db-4774-848d-b466de55fe53" />
+    <UnitTestResult executionId="0947e40f-07cb-4b9c-915b-9f893cb45b76" testId="84f6b111-713d-4b6b-9a8e-80eae49d7c0f" testName="FormatToStringTest100 (1741.3334432818617,1741.33 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000061" startTime="2022-06-13T20:50:50.6684919+02:00" endTime="2022-06-13T20:50:50.6685574+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0947e40f-07cb-4b9c-915b-9f893cb45b76" />
+    <UnitTestResult executionId="86096230-58c7-4883-b3d7-5bf9a34567e4" testId="8dca34bd-cd47-4682-9c86-af92b393203f" testName="FormatToStringTest100 (16986.338876065027,16986.34 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000062" startTime="2022-06-13T20:50:50.6653566+02:00" endTime="2022-06-13T20:50:50.6654230+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="86096230-58c7-4883-b3d7-5bf9a34567e4" />
+    <UnitTestResult executionId="2efd3667-efc9-445f-9abc-48cc0c9bfee1" testId="bb0c64e8-ea57-49dc-b08a-560077dea77f" testName="FormatToStringTest100 (7789.7136237517525,7789.71 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000070" startTime="2022-06-13T20:50:50.6650797+02:00" endTime="2022-06-13T20:50:50.6651669+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2efd3667-efc9-445f-9abc-48cc0c9bfee1" />
+    <UnitTestResult executionId="03738c28-4de8-4ab1-94c8-4c42e3360b59" testId="637b73c3-1152-4d7f-a306-ce429912bc0c" testName="FormatToStringTest100 (740.3213011405064,740.32 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000062" startTime="2022-06-13T20:50:50.6594933+02:00" endTime="2022-06-13T20:50:50.6595593+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="03738c28-4de8-4ab1-94c8-4c42e3360b59" />
+    <UnitTestResult executionId="3b4f8312-d5e9-4a09-b7c2-66eff8d34c2a" testId="7d2d189f-5b91-4d5e-9b08-01e4352a608e" testName="FormatToStringTest100 (77904.0088552246,77904.01 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000066" startTime="2022-06-13T20:50:50.6824132+02:00" endTime="2022-06-13T20:50:50.6824866+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3b4f8312-d5e9-4a09-b7c2-66eff8d34c2a" />
+    <UnitTestResult executionId="f57b0bc7-6623-4c98-9f36-86e7ca9861af" testId="58e51864-1dcb-4384-acf0-448182647915" testName="FormatToStringTest100 (6809.40195803037,6809.40 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000206" startTime="2022-06-13T20:50:50.6094954+02:00" endTime="2022-06-13T20:50:50.6097330+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f57b0bc7-6623-4c98-9f36-86e7ca9861af" />
+    <UnitTestResult executionId="e7f0a74e-2355-417c-ac3b-d74982835024" testId="284fe1a3-9341-44bc-b2e1-976c8f2e5205" testName="FormatToStringTest100 (24957.469502810607,24957.47 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000062" startTime="2022-06-13T20:50:50.6560888+02:00" endTime="2022-06-13T20:50:50.6561562+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e7f0a74e-2355-417c-ac3b-d74982835024" />
+    <UnitTestResult executionId="2b7f922d-2884-43c7-a8db-f034b271ec4c" testId="b5d08c51-cecd-4e77-b4ea-68e802f8fe88" testName="FormatToStringTest100 (50339.31259969497,50339.31 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000098" startTime="2022-06-13T20:50:50.6752101+02:00" endTime="2022-06-13T20:50:50.6752887+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2b7f922d-2884-43c7-a8db-f034b271ec4c" />
+    <UnitTestResult executionId="de2e9ccd-72ca-4ae2-b7dc-de2e34c9ffac" testId="f8386a36-071b-4a36-9626-c28e4739abf6" testName="FormatToStringTest100 (78822.37212685234,78822.37 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000061" startTime="2022-06-13T20:50:50.6687413+02:00" endTime="2022-06-13T20:50:50.6688069+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="de2e9ccd-72ca-4ae2-b7dc-de2e34c9ffac" />
+    <UnitTestResult executionId="58872347-8d47-4225-8001-6a8f5cdbb3ab" testId="33176de1-8867-4cd5-bf6b-5250a30fd46d" testName="FormatToStringTest100 (96.75594581512546,96.76 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000062" startTime="2022-06-13T20:50:50.6683239+02:00" endTime="2022-06-13T20:50:50.6683903+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="58872347-8d47-4225-8001-6a8f5cdbb3ab" />
+    <UnitTestResult executionId="fbc9a61d-14a1-4022-8e8b-617ab981701b" testId="c9172d2e-a94c-44c1-abbd-2ab6ae64dda3" testName="FormatToStringTest100 (14172.682747822573,14172.68 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000064" startTime="2022-06-13T20:50:50.6590638+02:00" endTime="2022-06-13T20:50:50.6591338+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fbc9a61d-14a1-4022-8e8b-617ab981701b" />
+    <UnitTestResult executionId="58246e3f-fb9d-400c-af51-d436008a7020" testId="fa03f86d-53be-433f-abba-8708ed0f3c12" testName="FormatToStringTest100 (9867.823212210007,9867.82 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000064" startTime="2022-06-13T20:50:50.6790844+02:00" endTime="2022-06-13T20:50:50.6791591+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="58246e3f-fb9d-400c-af51-d436008a7020" />
+    <UnitTestResult executionId="0fb058ab-be9b-4402-a8d3-ee67cfe1a90c" testId="dd83a7a5-ca58-4c3f-9196-6a1fe579705a" testName="FormatToStringTest100 (58848.60825001477,58848.61 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000123" startTime="2022-06-13T20:50:50.6750146+02:00" endTime="2022-06-13T20:50:50.6751787+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0fb058ab-be9b-4402-a8d3-ee67cfe1a90c" />
+    <UnitTestResult executionId="61d7796a-80c0-42d6-b9d9-beedd25e3c9c" testId="c5bec26c-eb16-4b45-92f1-6b8e9e8f0983" testName="FormatToStringTest100 (66019.32414194118,66019.32 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000076" startTime="2022-06-13T20:50:50.6589554+02:00" endTime="2022-06-13T20:50:50.6590430+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="61d7796a-80c0-42d6-b9d9-beedd25e3c9c" />
+    <UnitTestResult executionId="cd7d73b1-8308-49c2-b623-97a8c390766d" testId="359212c3-9b61-45fd-87d1-0ab52cea9502" testName="FormatToStringTest100 (75350.77330865282,75350.77 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000063" startTime="2022-06-13T20:50:50.6793629+02:00" endTime="2022-06-13T20:50:50.6794349+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cd7d73b1-8308-49c2-b623-97a8c390766d" />
+    <UnitTestResult executionId="387341b4-a7f4-4e74-87ed-1b45a451e865" testId="4c944d70-21e1-4fa4-ad1e-7d826ae533b7" testName="FormatToStringTest100 (18990.72499258012,18990.72 zł)" computerName="DESKTOP-5URQ9PB" duration="00:00:00.0000064" startTime="2022-06-13T20:50:50.6789879+02:00" endTime="2022-06-13T20:50:50.6790606+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="387341b4-a7f4-4e74-87ed-1b45a451e865" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="FormatToStringTest100 (14172.682747822573,14172.68 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="c9172d2e-a94c-44c1-abbd-2ab6ae64dda3">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="fbc9a61d-14a1-4022-8e8b-617ab981701b" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (8768.816937361293,8768.82 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="5b80d218-f1f3-46b1-aac0-01fd7359e802">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="71622209-b11d-44a3-a620-85e9e77751ea" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (1300.9430775404642,1300.94 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="fc2ee564-e218-4ab7-9499-7e907f9b9520">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="c80ffeb6-a555-4759-8857-b446f80d5b93" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (18990.72499258012,18990.72 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="4c944d70-21e1-4fa4-ad1e-7d826ae533b7">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="387341b4-a7f4-4e74-87ed-1b45a451e865" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (79973.08417819678,79973.08 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="587a785e-c067-496c-9729-2e4205441e74">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="c4a953b0-1271-4a3a-b80d-a6da3afb84de" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (58848.60825001477,58848.61 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="dd83a7a5-ca58-4c3f-9196-6a1fe579705a">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="0fb058ab-be9b-4402-a8d3-ee67cfe1a90c" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (52020.805412759444,52020.81 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="9c730735-772a-4758-8c86-f2002bc547c1">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="d16f73eb-062a-4588-b01e-4148c1a11c4e" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (3521.3657738167635,3521.37 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="bada6f7c-e2e4-4711-b8c7-61bca40003b3">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="c7141f69-90ff-48c8-987e-2d25c0625a20" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (67338.80028760935,67338.80 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="bddc51a6-43e6-456d-b72d-138868043226">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="c65c8698-bbce-4469-9fa9-31acd8625e30" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (19541.10539777116,19541.11 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="f36436dd-d2ae-4819-acc6-c3911b8c7e06">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="279f952a-f892-4a1c-8c40-88c913b3ead4" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (45603.90324273142,45603.90 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="9e418f51-94ae-4ee3-a4c5-5bd25121ef04">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="f5f8e54c-046e-40f9-9cb1-4ac4d5a50438" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (22666.13578912995,22666.14 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="e5bafd75-fcbe-4f12-b586-b1cab8bd11e8">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="064acb65-de28-4b8a-8096-5cf5c2963f0c" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (74514.06270644537,74514.06 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="85782a81-aafc-4d90-9fcc-48ea2bef158c">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="e20c24c1-c2c6-4146-a198-bdec34cc9b70" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (31290.71396233687,31290.71 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="e864747c-da7d-4ccb-9187-42cfbb917d91">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="221f5b15-be69-4911-84c6-b72624107545" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (32218.080508120394,32218.08 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="cf0eafe8-8180-4478-a3c9-9760e011c313">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="bf65a61b-4e0a-436f-9aca-6fc6f0aa5e93" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (70771.4436677524,70771.44 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="7464994c-2fc9-4ffe-9f15-bb1637cfc851">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="60973595-b70d-438a-9cc6-8dff63d71b2f" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (10784.438152511344,10784.44 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="0463e7b2-2a23-4f14-9fe0-608e8069c61e">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="9848eb1a-c8d1-4ca2-aedd-535178bc4e0c" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (21961.272673999552,21961.27 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="b2fe7148-ab6b-4a88-9b5b-2e03267fba64">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="90cae604-db5c-4cbd-a0fb-d05a7693a0f6" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (6890.028458985514,6890.03 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="d678b4e9-dbef-4b48-bd30-0ed2abcc6689">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="cb5c6c60-0fa4-4ec3-ab9a-b9255833e3d2" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (27050.586848031067,27050.59 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="b2280ffa-7e49-406f-a17b-7ab3f397522a">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="911ddbaa-a1c8-4549-8218-7da93762c98d" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (16383.352881839199,16383.35 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="24ad7700-6f45-4901-b25e-eb0763a632bb">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="969303c1-f891-444c-8ffd-90f9c18e0a29" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (24957.469502810607,24957.47 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="284fe1a3-9341-44bc-b2e1-976c8f2e5205">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="e7f0a74e-2355-417c-ac3b-d74982835024" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (28502.61128259758,28502.61 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="d8c72584-deaa-40e5-af56-778274886186">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="4710c3dd-b000-4945-90be-3ec5fcfe83f6" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (5396.620088554277,5396.62 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="6bde1f9c-1072-4653-89d4-8904f3f7db07">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="cd559bf6-e1db-4774-848d-b466de55fe53" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (62975.496334776515,62975.50 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="c33c72be-1330-4337-afba-d1180ef4ff58">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="ca9f5a0a-81dc-482a-838d-dec9d8bd1506" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (14237.13226245955,14237.13 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="da0f47cf-fb93-41ab-b01a-2c839d88c952">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="eb8f3470-1350-40d4-a36f-d772a7b03ce9" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (159.83786031922224,159.84 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="66b9031a-a86e-4f5e-9cc8-06d1d7b57be1">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="e5891d3c-c292-4c16-85c7-d1ad358eea8f" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (52810.91713865516,52810.92 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="2f03c096-7517-4945-90f6-38e38750f8ea">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="783ee5ef-65d9-490d-80a6-a78fa687d50b" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (52858.048916166204,52858.05 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="bb4552ae-cead-437e-a9a9-a84229560af2">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="efdf5bd8-79b3-49f0-a17b-d1034cd955f2" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (7789.7136237517525,7789.71 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="bb0c64e8-ea57-49dc-b08a-560077dea77f">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="2efd3667-efc9-445f-9abc-48cc0c9bfee1" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (8499.121443388574,8499.12 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="ae8b13d7-21ca-4193-8a6a-f5c43a74bbd9">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="a8afc1cc-224c-42a6-9b28-05bdec16a530" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (286.92120604539343,286.92 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="077e9bb8-eb41-4ad8-82d0-b8ca989505f5">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="3f1c376f-77dc-45cf-a4b3-b677b6fb5495" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (32632.105531036905,32632.11 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="9d91f0e2-7861-44b0-9cae-ef9dec9e378f">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="7f515d27-9165-413d-90db-08e971b27487" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (64210.358316209335,64210.36 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="26b4fd2c-672f-4d6e-a93d-1a0e138a09d3">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="c72e31da-5940-48b5-8717-2b9c08e297ee" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (75350.77330865282,75350.77 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="359212c3-9b61-45fd-87d1-0ab52cea9502">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="cd7d73b1-8308-49c2-b623-97a8c390766d" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (38640.62766693003,38640.63 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="56a0b568-3d05-4bd6-b698-ae6a3ff92507">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="c13d7565-3dc9-4f16-a273-c8e03d5e2f75" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (80609.94377465078,80609.94 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="2929118e-8f24-4bef-9a03-69fbf79e6b77">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="bb628dd7-2561-4564-b233-16d032a1b574" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (96.75594581512546,96.76 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="33176de1-8867-4cd5-bf6b-5250a30fd46d">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="58872347-8d47-4225-8001-6a8f5cdbb3ab" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (2937.138486199611,2937.14 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="8086175e-a865-4111-b96a-d32838d1f9d9">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="39eca2ed-1733-4dc6-ab69-bcb9bc7da628" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (41876.979471482795,41876.98 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="649d9cc3-15e7-427f-b67b-6e83be43ae69">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="fd1ddc66-1075-4bc1-bab9-d806e2730426" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (16986.338876065027,16986.34 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="8dca34bd-cd47-4682-9c86-af92b393203f">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="86096230-58c7-4883-b3d7-5bf9a34567e4" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (22291.653251342315,22291.65 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="e9ea4e0e-bb69-4abd-86a2-f718719cdf76">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="5ec2e00f-ea8e-473f-bbca-a2d042b1de55" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (10914.360814625099,10914.36 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="6da895ad-a927-419f-b400-488281d1adb8">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="8ab1b472-e85f-4326-add4-08ab899aef7b" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (1741.3334432818617,1741.33 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="84f6b111-713d-4b6b-9a8e-80eae49d7c0f">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="0947e40f-07cb-4b9c-915b-9f893cb45b76" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (1108.7197928823157,1108.72 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="54a6fee8-ec99-4bd2-878e-5a76125d760c">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="35d222e1-4493-485d-bba7-79d49de03d0b" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (1649.0127968480872,1649.01 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="8fb35c9b-ff16-41a9-a580-89e07e9f78c8">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="8c8a9a30-f618-4c90-94b7-2dfec36d2421" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (11100.829211263372,11100.83 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="16c0342d-052f-4783-87e1-70e8ca326314">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="25002c41-7abd-4fb0-9954-32835fc44f00" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (9867.823212210007,9867.82 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="fa03f86d-53be-433f-abba-8708ed0f3c12">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="58246e3f-fb9d-400c-af51-d436008a7020" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (6958.393354767186,6958.39 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="fc755783-58bc-4146-99b6-28cd68ad8dee">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="4afa99a7-0fbc-4ee3-aeca-e4237a38ee08" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (726.8087564975995,726.81 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="f98d8477-1df1-48d6-b3a4-f8e624897f9e">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="df524ecf-95c7-476b-b138-8c78652ee3cf" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (63507.32603545455,63507.33 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="99f67cb8-ff69-4dfd-8331-35ce20a331eb">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="3205f86b-dcc5-4e7a-a3a6-aee16dfa543f" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (27893.312729890138,27893.31 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="c6a353be-1a6d-4c91-9d77-1b9bb63ed330">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="8b9ae3b0-05e6-4b65-88fe-2e5d4aed5540" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (35784.54232617307,35784.54 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="b6045ca9-8975-4d2f-b57d-117dbf75987c">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="ed85428b-b338-44a9-8fc4-d1eedd411082" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (22604.838218828587,22604.84 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="18498485-0c97-4fbd-890e-17fbcb18589a">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="20a7f7ab-483c-4e97-95e0-a4cd4d031bb4" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (591.2110872302256,591.21 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="1b009a10-f7de-4971-bebd-db65c32c8314">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="90679fae-0905-4515-8774-3e57823a242d" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (15566.957545477411,15566.96 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="5e6b5665-5e1e-4d4e-9118-697af9d3cc98">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="36020fd4-8176-4c75-9241-5d02c8c42f42" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (66019.32414194118,66019.32 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="c5bec26c-eb16-4b45-92f1-6b8e9e8f0983">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="61d7796a-80c0-42d6-b9d9-beedd25e3c9c" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (2292.8331871111104,2292.83 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="7bbfeab7-2a0b-43e1-84d7-23147dd64efb">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="3cb87e65-5e94-48c1-83e5-a96293283847" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (35145.379208063416,35145.38 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="aab98562-9385-454d-9380-5468f19ba154">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="d8b3d8a9-f2a2-4ff3-993d-2161c827e54d" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (45035.160883881224,45035.16 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="63323c08-2f86-4166-95f1-1529d0bfd20c">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="a23da324-00db-4d2b-99d5-90d32168b4f2" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (15639.704937780603,15639.70 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="f33c8f26-c699-4ff4-9de0-793e87d3d77c">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="7f4d4eac-3fed-4fd0-8718-e0cf9ec1c415" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (11912.404131636213,11912.40 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="3708d394-177d-4e3e-b38a-2e45022b2ff6">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="4b92a56b-66c9-4a99-904f-a9c4db62f728" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (9816.961298880615,9816.96 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="3a22c60d-effb-4f5a-aaf1-473f05255ae3">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="e574a2ea-17a6-4a09-b683-1043435181d1" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (37589.670531794276,37589.67 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="b0a584a6-72f6-4dd6-8b19-8896d0f5b232">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="a52c0eb5-91bb-4103-bed0-a27ba6951240" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (78822.37212685234,78822.37 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="f8386a36-071b-4a36-9626-c28e4739abf6">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="de2e9ccd-72ca-4ae2-b7dc-de2e34c9ffac" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (26515.80237687929,26515.80 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="f8b12a8d-e706-4868-a67e-67bb107b2564">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="b8ea0983-9128-43e2-9285-979e0862bd6e" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (20244.692955315437,20244.69 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="fab9e9a6-0f8a-429f-b1c8-e618abb3b13e">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="e17afd40-1d6c-4298-87bf-20bb56bfa2b6" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (28192.949128067565,28192.95 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="fa9ee141-0586-4c82-be5b-13fcb4a7016c">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="41e5bc0e-aef0-4f03-b698-1168dad7b855" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (736.7398243680316,736.74 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="7f4b1485-b47e-4464-88e9-89753b451b41">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="85556aed-8ec7-486e-8490-1dbe3bac50e9" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (1614.2516601789982,1614.25 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="79a879eb-a6dd-4aa8-851c-7d1ceaa07068">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="46dafc4c-ad9a-4414-b862-0213ad331a91" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (34096.337879508894,34096.34 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="cdca18b4-9f64-4148-9bf3-39970c2dd9dd">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="14c7b8b2-42f0-469b-88f0-a39a9f0a723a" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (50991.22189691114,50991.22 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="cf4151d7-9ac4-4e6b-bc2b-3b6068ccd9e6">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="bc3f65ab-2e25-4ea2-9435-86003136fd54" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (1208.1827589441941,1208.18 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="8b0103b7-dbac-40d4-9e52-891e0dd6cb8a">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="a79a76c5-3104-42f8-9465-cac832bcfdec" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (86.89546322771136,86.90 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="fe341b2e-fa9f-4b20-b65e-210f7bc7c178">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="1bea89a7-7f8f-4288-b602-e215e8d5e956" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (7124.979180760672,7124.98 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="e133f658-aea1-4f4d-a7c2-6aa16d2aaf63">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="20ad3f4e-f0a9-4b5d-9343-bd5963fba1f0" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (468.83385119346616,468.83 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="5e0add7f-10ae-41e2-9463-02f6f06a8d91">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="486e5c7c-b1a9-46d9-8c2e-6302deb911a8" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (79.6815319544084,79.68 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="7f0879cf-42a3-47f9-a542-594ef926f250">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="30a0555c-968c-47ca-a603-bf5fa3f83fd4" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (31300.40752580967,31300.41 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="0d7c9e12-6168-417f-8be5-007a6f8e0aa9">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="1eb29219-c923-4773-a71c-1da1f115bf0e" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (25990.318498101697,25990.32 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="83628677-b469-4897-a4ab-a6551451f22a">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="1d116f30-80dd-47bd-9696-a64b34645891" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (28072.424637532058,28072.42 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="3b96fa6a-5bcf-490a-89b5-23364310405e">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="ebf0fb74-0043-494c-8745-c504b883e2d4" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (5628.028273674672,5628.03 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="e3f6c46b-1a38-4d06-9384-dd133679013d">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="f2488f0f-127c-4a9c-9f86-f41cf4a4ea0b" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (40857.08543233996,40857.09 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="1382bb3d-8511-4a5c-8c3b-3a7c84603165">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="7dd5b865-fbeb-4e11-8797-af2b77f8da9b" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (17953.338243749615,17953.34 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="4d6d3490-8aa8-4143-acb8-0cfb1e180dbf">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="0f2888e1-e682-47b7-90f3-d1b8d2930781" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (33206.73122987837,33206.73 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="fffdc944-2bec-4e2d-8c00-0c0bcfd35ea9">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="e59d5604-0db0-4c69-b358-d769e4d73ddc" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (317.9090540706688,317.91 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="fc564bae-1f54-45bf-a65a-59d49e85d1f7">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="55b00a4c-ae61-4065-986a-bc53b2802c14" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (918.1842976688334,918.18 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="83371d79-efa0-42ca-b106-e803fd84f183">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="d860a604-7968-42be-859f-001121eed79d" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (77904.0088552246,77904.01 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="7d2d189f-5b91-4d5e-9b08-01e4352a608e">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="3b4f8312-d5e9-4a09-b7c2-66eff8d34c2a" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (7594.279030504766,7594.28 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="ea30626e-a503-435a-a732-4d57252ba27f">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="3a6d67e1-d4fb-41e5-a6f8-871de732a97e" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (6864.093052674129,6864.09 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="fbb69a1e-ab28-412c-a624-d283618d81e3">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="2c2deca6-88af-48a4-b21d-fd989b8b769b" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (69864.17463991146,69864.17 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="d9a4dfa2-8e39-4800-bd41-f7b5a1262190">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="04f4a3d1-4163-4be2-9555-5e3d93e840e5" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (17252.06220983903,17252.06 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="eddeeeb1-4b76-48bc-8746-217ec1cc17c0">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="0e94cd7d-1c06-4665-87a8-3d7c418e36f9" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (740.3213011405064,740.32 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="637b73c3-1152-4d7f-a306-ce429912bc0c">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="03738c28-4de8-4ab1-94c8-4c42e3360b59" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (50339.31259969497,50339.31 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="b5d08c51-cecd-4e77-b4ea-68e802f8fe88">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="2b7f922d-2884-43c7-a8db-f034b271ec4c" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (39178.05988345298,39178.06 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="b5083f5a-98a5-4fba-923c-a26148f63b57">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="ddf7f54f-af18-4e7e-9379-4bc89367ec4b" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (46898.00219497783,46898.00 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="29269a0a-be56-4a14-90f9-e136de67fcc4">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="4ec844a8-8a76-4704-81e7-86642c52ad07" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (32216.686763396807,32216.69 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="675cbb8f-8dac-44f5-8d2d-59433bf933dd">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="793b834d-6451-40b8-8972-628e7c1c3b1b" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (7458.609645228652,7458.61 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="7970f90a-b137-4175-b5ce-af4e5a4522f8">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="d412adb2-f663-41b1-a13d-c7078912358f" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (10268.547802396373,10268.55 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="50ad44a7-7723-4b59-a06c-0841003706ed">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="eb503559-3f7f-408d-b282-eb9d5b775954" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (12949.590713378317,12949.59 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="4bc32075-7c02-4afe-99b9-99b9525fdfc1">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="c405ef14-7e2b-4e0c-aaf4-6eefd6f38bce" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+    <UnitTest name="FormatToStringTest100 (6809.40195803037,6809.40 zł)" storage="c:\projekty\mstestproject\bin\debug\netcoreapp3.1\mstestproject.dll" id="58e51864-1dcb-4384-acf0-448182647915">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Category100" />
+      </TestCategory>
+      <Execution id="f57b0bc7-6623-4c98-9f36-86e7ca9861af" />
+      <TestMethod codeBase="C:\Projekty\MSTestProject\bin\Debug\netcoreapp3.1\MSTestProject.dll" adapterTypeName="executor://mstestadapter/v2" className="TwojeWesele.Services.Helpers.Tests.CurrencyHelperTests" name="FormatToStringTest100" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="bada6f7c-e2e4-4711-b8c7-61bca40003b3" executionId="c7141f69-90ff-48c8-987e-2d25c0625a20" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bb4552ae-cead-437e-a9a9-a84229560af2" executionId="efdf5bd8-79b3-49f0-a17b-d1034cd955f2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fe341b2e-fa9f-4b20-b65e-210f7bc7c178" executionId="1bea89a7-7f8f-4288-b602-e215e8d5e956" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="aab98562-9385-454d-9380-5468f19ba154" executionId="d8b3d8a9-f2a2-4ff3-993d-2161c827e54d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7bbfeab7-2a0b-43e1-84d7-23147dd64efb" executionId="3cb87e65-5e94-48c1-83e5-a96293283847" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0d7c9e12-6168-417f-8be5-007a6f8e0aa9" executionId="1eb29219-c923-4773-a71c-1da1f115bf0e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7f4b1485-b47e-4464-88e9-89753b451b41" executionId="85556aed-8ec7-486e-8490-1dbe3bac50e9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7f0879cf-42a3-47f9-a542-594ef926f250" executionId="30a0555c-968c-47ca-a603-bf5fa3f83fd4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8b0103b7-dbac-40d4-9e52-891e0dd6cb8a" executionId="a79a76c5-3104-42f8-9465-cac832bcfdec" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="54a6fee8-ec99-4bd2-878e-5a76125d760c" executionId="35d222e1-4493-485d-bba7-79d49de03d0b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1382bb3d-8511-4a5c-8c3b-3a7c84603165" executionId="7dd5b865-fbeb-4e11-8797-af2b77f8da9b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5e6b5665-5e1e-4d4e-9118-697af9d3cc98" executionId="36020fd4-8176-4c75-9241-5d02c8c42f42" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e3f6c46b-1a38-4d06-9384-dd133679013d" executionId="f2488f0f-127c-4a9c-9f86-f41cf4a4ea0b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="56a0b568-3d05-4bd6-b698-ae6a3ff92507" executionId="c13d7565-3dc9-4f16-a273-c8e03d5e2f75" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1b009a10-f7de-4971-bebd-db65c32c8314" executionId="90679fae-0905-4515-8774-3e57823a242d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e133f658-aea1-4f4d-a7c2-6aa16d2aaf63" executionId="20ad3f4e-f0a9-4b5d-9343-bd5963fba1f0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fc2ee564-e218-4ab7-9499-7e907f9b9520" executionId="c80ffeb6-a555-4759-8857-b446f80d5b93" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3a22c60d-effb-4f5a-aaf1-473f05255ae3" executionId="e574a2ea-17a6-4a09-b683-1043435181d1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="85782a81-aafc-4d90-9fcc-48ea2bef158c" executionId="e20c24c1-c2c6-4146-a198-bdec34cc9b70" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="66b9031a-a86e-4f5e-9cc8-06d1d7b57be1" executionId="e5891d3c-c292-4c16-85c7-d1ad358eea8f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="99f67cb8-ff69-4dfd-8331-35ce20a331eb" executionId="3205f86b-dcc5-4e7a-a3a6-aee16dfa543f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c6a353be-1a6d-4c91-9d77-1b9bb63ed330" executionId="8b9ae3b0-05e6-4b65-88fe-2e5d4aed5540" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cf4151d7-9ac4-4e6b-bc2b-3b6068ccd9e6" executionId="bc3f65ab-2e25-4ea2-9435-86003136fd54" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e9ea4e0e-bb69-4abd-86a2-f718719cdf76" executionId="5ec2e00f-ea8e-473f-bbca-a2d042b1de55" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c33c72be-1330-4337-afba-d1180ef4ff58" executionId="ca9f5a0a-81dc-482a-838d-dec9d8bd1506" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fc564bae-1f54-45bf-a65a-59d49e85d1f7" executionId="55b00a4c-ae61-4065-986a-bc53b2802c14" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8fb35c9b-ff16-41a9-a580-89e07e9f78c8" executionId="8c8a9a30-f618-4c90-94b7-2dfec36d2421" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cdca18b4-9f64-4148-9bf3-39970c2dd9dd" executionId="14c7b8b2-42f0-469b-88f0-a39a9f0a723a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f98d8477-1df1-48d6-b3a4-f8e624897f9e" executionId="df524ecf-95c7-476b-b138-8c78652ee3cf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="675cbb8f-8dac-44f5-8d2d-59433bf933dd" executionId="793b834d-6451-40b8-8972-628e7c1c3b1b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cf0eafe8-8180-4478-a3c9-9760e011c313" executionId="bf65a61b-4e0a-436f-9aca-6fc6f0aa5e93" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6da895ad-a927-419f-b400-488281d1adb8" executionId="8ab1b472-e85f-4326-add4-08ab899aef7b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="649d9cc3-15e7-427f-b67b-6e83be43ae69" executionId="fd1ddc66-1075-4bc1-bab9-d806e2730426" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="83371d79-efa0-42ca-b106-e803fd84f183" executionId="d860a604-7968-42be-859f-001121eed79d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e5bafd75-fcbe-4f12-b586-b1cab8bd11e8" executionId="064acb65-de28-4b8a-8096-5cf5c2963f0c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b5083f5a-98a5-4fba-923c-a26148f63b57" executionId="ddf7f54f-af18-4e7e-9379-4bc89367ec4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fab9e9a6-0f8a-429f-b1c8-e618abb3b13e" executionId="e17afd40-1d6c-4298-87bf-20bb56bfa2b6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="24ad7700-6f45-4901-b25e-eb0763a632bb" executionId="969303c1-f891-444c-8ffd-90f9c18e0a29" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8086175e-a865-4111-b96a-d32838d1f9d9" executionId="39eca2ed-1733-4dc6-ab69-bcb9bc7da628" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="eddeeeb1-4b76-48bc-8746-217ec1cc17c0" executionId="0e94cd7d-1c06-4665-87a8-3d7c418e36f9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="077e9bb8-eb41-4ad8-82d0-b8ca989505f5" executionId="3f1c376f-77dc-45cf-a4b3-b677b6fb5495" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="587a785e-c067-496c-9729-2e4205441e74" executionId="c4a953b0-1271-4a3a-b80d-a6da3afb84de" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5e0add7f-10ae-41e2-9463-02f6f06a8d91" executionId="486e5c7c-b1a9-46d9-8c2e-6302deb911a8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9c730735-772a-4758-8c86-f2002bc547c1" executionId="d16f73eb-062a-4588-b01e-4148c1a11c4e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3708d394-177d-4e3e-b38a-2e45022b2ff6" executionId="4b92a56b-66c9-4a99-904f-a9c4db62f728" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fbb69a1e-ab28-412c-a624-d283618d81e3" executionId="2c2deca6-88af-48a4-b21d-fd989b8b769b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d8c72584-deaa-40e5-af56-778274886186" executionId="4710c3dd-b000-4945-90be-3ec5fcfe83f6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="63323c08-2f86-4166-95f1-1529d0bfd20c" executionId="a23da324-00db-4d2b-99d5-90d32168b4f2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fc755783-58bc-4146-99b6-28cd68ad8dee" executionId="4afa99a7-0fbc-4ee3-aeca-e4237a38ee08" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4bc32075-7c02-4afe-99b9-99b9525fdfc1" executionId="c405ef14-7e2b-4e0c-aaf4-6eefd6f38bce" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bddc51a6-43e6-456d-b72d-138868043226" executionId="c65c8698-bbce-4469-9fa9-31acd8625e30" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="16c0342d-052f-4783-87e1-70e8ca326314" executionId="25002c41-7abd-4fb0-9954-32835fc44f00" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="18498485-0c97-4fbd-890e-17fbcb18589a" executionId="20a7f7ab-483c-4e97-95e0-a4cd4d031bb4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b0a584a6-72f6-4dd6-8b19-8896d0f5b232" executionId="a52c0eb5-91bb-4103-bed0-a27ba6951240" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="da0f47cf-fb93-41ab-b01a-2c839d88c952" executionId="eb8f3470-1350-40d4-a36f-d772a7b03ce9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7970f90a-b137-4175-b5ce-af4e5a4522f8" executionId="d412adb2-f663-41b1-a13d-c7078912358f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="29269a0a-be56-4a14-90f9-e136de67fcc4" executionId="4ec844a8-8a76-4704-81e7-86642c52ad07" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2f03c096-7517-4945-90f6-38e38750f8ea" executionId="783ee5ef-65d9-490d-80a6-a78fa687d50b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fa9ee141-0586-4c82-be5b-13fcb4a7016c" executionId="41e5bc0e-aef0-4f03-b698-1168dad7b855" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="79a879eb-a6dd-4aa8-851c-7d1ceaa07068" executionId="46dafc4c-ad9a-4414-b862-0213ad331a91" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b2fe7148-ab6b-4a88-9b5b-2e03267fba64" executionId="90cae604-db5c-4cbd-a0fb-d05a7693a0f6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b2280ffa-7e49-406f-a17b-7ab3f397522a" executionId="911ddbaa-a1c8-4549-8218-7da93762c98d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0463e7b2-2a23-4f14-9fe0-608e8069c61e" executionId="9848eb1a-c8d1-4ca2-aedd-535178bc4e0c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ea30626e-a503-435a-a732-4d57252ba27f" executionId="3a6d67e1-d4fb-41e5-a6f8-871de732a97e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4d6d3490-8aa8-4143-acb8-0cfb1e180dbf" executionId="0f2888e1-e682-47b7-90f3-d1b8d2930781" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3b96fa6a-5bcf-490a-89b5-23364310405e" executionId="ebf0fb74-0043-494c-8745-c504b883e2d4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="26b4fd2c-672f-4d6e-a93d-1a0e138a09d3" executionId="c72e31da-5940-48b5-8717-2b9c08e297ee" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="50ad44a7-7723-4b59-a06c-0841003706ed" executionId="eb503559-3f7f-408d-b282-eb9d5b775954" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b6045ca9-8975-4d2f-b57d-117dbf75987c" executionId="ed85428b-b338-44a9-8fc4-d1eedd411082" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2929118e-8f24-4bef-9a03-69fbf79e6b77" executionId="bb628dd7-2561-4564-b233-16d032a1b574" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d9a4dfa2-8e39-4800-bd41-f7b5a1262190" executionId="04f4a3d1-4163-4be2-9555-5e3d93e840e5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5b80d218-f1f3-46b1-aac0-01fd7359e802" executionId="71622209-b11d-44a3-a620-85e9e77751ea" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e864747c-da7d-4ccb-9187-42cfbb917d91" executionId="221f5b15-be69-4911-84c6-b72624107545" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ae8b13d7-21ca-4193-8a6a-f5c43a74bbd9" executionId="a8afc1cc-224c-42a6-9b28-05bdec16a530" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9d91f0e2-7861-44b0-9cae-ef9dec9e378f" executionId="7f515d27-9165-413d-90db-08e971b27487" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fffdc944-2bec-4e2d-8c00-0c0bcfd35ea9" executionId="e59d5604-0db0-4c69-b358-d769e4d73ddc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7464994c-2fc9-4ffe-9f15-bb1637cfc851" executionId="60973595-b70d-438a-9cc6-8dff63d71b2f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="83628677-b469-4897-a4ab-a6551451f22a" executionId="1d116f30-80dd-47bd-9696-a64b34645891" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f8b12a8d-e706-4868-a67e-67bb107b2564" executionId="b8ea0983-9128-43e2-9285-979e0862bd6e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d678b4e9-dbef-4b48-bd30-0ed2abcc6689" executionId="cb5c6c60-0fa4-4ec3-ab9a-b9255833e3d2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f33c8f26-c699-4ff4-9de0-793e87d3d77c" executionId="7f4d4eac-3fed-4fd0-8718-e0cf9ec1c415" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9e418f51-94ae-4ee3-a4c5-5bd25121ef04" executionId="f5f8e54c-046e-40f9-9cb1-4ac4d5a50438" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f36436dd-d2ae-4819-acc6-c3911b8c7e06" executionId="279f952a-f892-4a1c-8c40-88c913b3ead4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6bde1f9c-1072-4653-89d4-8904f3f7db07" executionId="cd559bf6-e1db-4774-848d-b466de55fe53" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="84f6b111-713d-4b6b-9a8e-80eae49d7c0f" executionId="0947e40f-07cb-4b9c-915b-9f893cb45b76" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8dca34bd-cd47-4682-9c86-af92b393203f" executionId="86096230-58c7-4883-b3d7-5bf9a34567e4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bb0c64e8-ea57-49dc-b08a-560077dea77f" executionId="2efd3667-efc9-445f-9abc-48cc0c9bfee1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="637b73c3-1152-4d7f-a306-ce429912bc0c" executionId="03738c28-4de8-4ab1-94c8-4c42e3360b59" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7d2d189f-5b91-4d5e-9b08-01e4352a608e" executionId="3b4f8312-d5e9-4a09-b7c2-66eff8d34c2a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="58e51864-1dcb-4384-acf0-448182647915" executionId="f57b0bc7-6623-4c98-9f36-86e7ca9861af" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="284fe1a3-9341-44bc-b2e1-976c8f2e5205" executionId="e7f0a74e-2355-417c-ac3b-d74982835024" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b5d08c51-cecd-4e77-b4ea-68e802f8fe88" executionId="2b7f922d-2884-43c7-a8db-f034b271ec4c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f8386a36-071b-4a36-9626-c28e4739abf6" executionId="de2e9ccd-72ca-4ae2-b7dc-de2e34c9ffac" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="33176de1-8867-4cd5-bf6b-5250a30fd46d" executionId="58872347-8d47-4225-8001-6a8f5cdbb3ab" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c9172d2e-a94c-44c1-abbd-2ab6ae64dda3" executionId="fbc9a61d-14a1-4022-8e8b-617ab981701b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fa03f86d-53be-433f-abba-8708ed0f3c12" executionId="58246e3f-fb9d-400c-af51-d436008a7020" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="dd83a7a5-ca58-4c3f-9196-6a1fe579705a" executionId="0fb058ab-be9b-4402-a8d3-ee67cfe1a90c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c5bec26c-eb16-4b45-92f1-6b8e9e8f0983" executionId="61d7796a-80c0-42d6-b9d9-beedd25e3c9c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="359212c3-9b61-45fd-87d1-0ab52cea9502" executionId="cd7d73b1-8308-49c2-b623-97a8c390766d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4c944d70-21e1-4fa4-ad1e-7d826ae533b7" executionId="387341b4-a7f4-4e74-87ed-1b45a451e865" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="100" executed="100" passed="100" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+</TestRun>
